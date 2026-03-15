@@ -1,0 +1,5 @@
+Average value of sales for specific categories.
+Seasonal shopping trends (e.g., total spending per season).
+Impact of Payment Methods on Transaction Size
+Demographic Spending Analysis
+Review Rating Correlation with Spending
