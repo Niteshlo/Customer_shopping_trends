@@ -1,3 +1,6 @@
+# Customer_shopping_trends
+>>>>>>> 61a78b5950912ddc8407f802b81bedc8cc50d107
+=======
 # Customer Shopping Trends Pipeline 📊
 
 ## 🏢 Project Overview
@@ -9,6 +12,8 @@ This is an **end-to-end data engineering pipeline** for analyzing customer shopp
 - Impact of payment methods on transaction size
 - Demographic spending analysis (age groups, location)
 - Review rating correlation with spending
+
+**Repository:** https://github.com/Niteshlo/Customer_shopping_trends
 
 ## 🏗️ System Architecture
 Modular **ETL Pipeline** orchestrated by `run_pipeline.py`:
@@ -97,3 +102,6 @@ See `outputs/` folder for pipeline execution and dashboard visualizations.
 
 **Built for Data Engineering best practices: modular ETL, star schema, automated reporting.**
 
+=======
+# Customer_shopping_trends
+>>>>>>> 61a78b5950912ddc8407f802b81bedc8cc50d107
